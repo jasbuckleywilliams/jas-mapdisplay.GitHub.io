@@ -14,5 +14,5 @@ Here are a few things I might include later:
 
 Below is an interactive map showing current road closures in Florida:
 
-<iframe src="https://arcg.is/vCb1v" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+
 
