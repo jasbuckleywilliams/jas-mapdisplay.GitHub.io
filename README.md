@@ -1,1 +1,1 @@
-# jas-mapdisplayGitHub.io
+# jas-mapdisplay.GitHub.io
