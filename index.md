@@ -18,7 +18,8 @@ Below is an interactive map showing current road closures in Florida:
 
 Click the link below to open my basic Leaflet polygon map created for Exercise 1:
 
-[View EX1_polygon.html](documents/leaflet_basics/leafletbasic/exercise/EX1_polygon.html)
+[View EX1_polygon.html](https://jas-mapdisplay.github.io/exercise/EX1_polygon.html)
+
 
 ---
 
